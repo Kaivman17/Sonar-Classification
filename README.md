@@ -1,5 +1,5 @@
 # Sonar-Classification
-Benchmark dataset of multi-class classification from the UCI Machine Learning Repository
+Benchmark dataset of binary classification from the UCI Machine Learning Repository
 
 Summary:
 The task is to train a network to discriminate between sonar signals bounced
